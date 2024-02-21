@@ -25,6 +25,8 @@ public interface BbsDao {
 	int bbsupdate(BbsDto dto);
 	
 	int bbsdelete(int seq);
+	
+	
 
 
 }
